@@ -1,0 +1,2 @@
+rootProject.name = "ref_linechart"
+include ':app'
